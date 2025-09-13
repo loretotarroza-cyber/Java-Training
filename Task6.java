@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class EvenNumberPrinter {
+public class Task6 {
     public static void main(String[] args) {
        int[] numbers = {
         951, 402, 984, 651, 360, 69, 408, 319, 601, 485, 980, 507, 725, 547, 544,
