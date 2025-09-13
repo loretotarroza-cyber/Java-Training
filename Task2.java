@@ -1,4 +1,4 @@
-public class Main{
+public class Task2{
 public static void main(String[] args) {
         char h ='H';
         short shorty = 311;
