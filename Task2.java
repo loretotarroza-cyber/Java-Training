@@ -1,3 +1,4 @@
+public class Main{
 public static void main(String[] args) {
         char h ='H';
         short shorty = 311;
@@ -10,4 +11,4 @@ public static void main(String[] args) {
         boolean fmt = true;
         String output = "" + h + shorty + zero + " " + W + zero + R + one + d + " " + ab + " " + fmt;
         System.out.println(output);
-        }
+        }}
