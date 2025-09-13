@@ -11,4 +11,5 @@ public static void main(String[] args) {
         boolean fmt = true;
         String output = "" + h + shorty + zero + " " + W + zero + R + one + d + " " + ab + " " + fmt;
         System.out.println(output);
-        }}
+        }
+}
