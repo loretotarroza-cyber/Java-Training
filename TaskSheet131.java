@@ -28,7 +28,6 @@ class Afritada extends Dish {
     }
 }
 
-
 class Mechado extends Dish {
     Mechado() {
         super("Mechado", new String[]{"Tomato Sauce", "Meat", "Tomato Paste", "Liver Spread"});
